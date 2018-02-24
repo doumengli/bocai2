@@ -1,0 +1,17 @@
+.sections{
+ width:100%;
+ height:100%;
+ flex:1;
+ display:flex;
+ flex-direction:row;
+}
+.lefts{
+width:30%;
+height:100%;
+overflow-y: scroll;
+}
+.rights{
+    width:30%;
+    height:100%;
+    overflow-y: scroll;
+}

@@ -1,0 +1,49 @@
+参考网址 ：https://fmbc.8win.com/#/fmbc/game?back_btn=0&outEntrance=1&_k=be19cg 
+引入classname 下载
+import classNames from ‘classnames’
+import style from './style.scss'
+
+
+getNav([...res,...res]); // es6克隆数据
+在配置中 修改
+{
+test:/\.scss$/,
+loaders:[
+{
+loader:'style'
+},
+{
+loader:'css?module'
+},{
+loader:'style'
+}
+引入时 变为：import styles from ‘./Game.scss’
+className={styles.text}
+text为name
+
+当需要请求数据时若路径为变量时，可以用
+import fatch from 'isomorphic-fetch';
+
+  fetch(url).then(res => res.json())
+        .then(res => {
+            const list =JSON.parse(res.data)
+            console.log(list,'dier');
+            getListAction(list)
+        }) 
+
+new Set(arr) 去重 数组
+
+const json ={} // 利用对象去重 原理对象会覆盖前面的
+for (let i of list){ 
+json[item.name.split(" ")[0]]=[]
+}
+
+
+报map of undefined 时：
+{
+1. 数据的第一条为 null /undefined
+   
+2. 只能遍历数组
+
+3.  return data =data.map(()=>{})
+}

@@ -1,0 +1,690 @@
+[
+    {
+        "auditStatus": 1,
+        "elapseTime": 0,
+        "events": [],
+        "handicapStatus": 2,
+        "handicapType": -1,
+        "leagueName": "澳超",
+        "leagueRank": 0,
+        "matchId": 38032,
+        "matchName": "",
+        "matchStatus": 0,
+        "matchTime": "2018-01-10 14:35:00",
+        "matchType": 0,
+        "paused": 1,
+        "period": 0,
+        "players": [
+            {
+                "picUrl": "https://pic.8win.com/data/image/all/2016/5/30/team_15.png",
+                "score": [
+                    0
+                ],
+                "shortName": "惠灵顿",
+                "teamId": 15
+            },
+            {
+                "picUrl": "https://pic.8win.com/data/image/all/2016/5/30/team_274.png",
+                "score": [
+                    0
+                ],
+                "shortName": "墨胜利",
+                "teamId": 274
+            }
+        ],
+        "playtypeId": null,
+        "playtypes": [],
+        "pondType": 0,
+        "rank": 0,
+        "special": 0,
+        "specialDesc": "",
+        "specialPicture": "",
+        "sportName": "足球",
+        "sportType": 1
+    },
+    {
+        "auditStatus": 1,
+        "elapseTime": 0,
+        "events": [],
+        "handicapStatus": 2,
+        "handicapType": -1,
+        "leagueName": "亚青赛",
+        "leagueRank": 0,
+        "matchId": 38263,
+        "matchName": "",
+        "matchStatus": 0,
+        "matchTime": "2018-01-10 16:00:00",
+        "matchType": 0,
+        "paused": 1,
+        "period": 0,
+        "players": [
+            {
+                "picUrl": "https://pic.8win.com/data/image/all/2016/8/2/fb_team_1470118352881.png",
+                "score": [
+                    0
+                ],
+                "shortName": "伊拉克U23",
+                "teamId": 7463
+            },
+            {
+                "picUrl": "https://pic.8win.com/data/image/all/2016/10/9/fb_team_1476007683942.png",
+                "score": [
+                    0
+                ],
+                "shortName": "马来西亚U23",
+                "teamId": 7448
+            }
+        ],
+        "playtypeId": null,
+        "playtypes": [],
+        "pondType": 0,
+        "rank": 0,
+        "special": 0,
+        "specialDesc": "",
+        "specialPicture": "",
+        "sportName": "足球",
+        "sportType": 1
+    },
+    {
+        "auditStatus": 1,
+        "elapseTime": 0,
+        "events": [],
+        "handicapStatus": 2,
+        "handicapType": -1,
+        "leagueName": "亚青赛",
+        "leagueRank": 0,
+        "matchId": 38267,
+        "matchName": "",
+        "matchStatus": 0,
+        "matchTime": "2018-01-10 16:00:00",
+        "matchType": 0,
+        "paused": 1,
+        "period": 0,
+        "players": [
+            {
+                "picUrl": "https://pic.8win.com/data/image/all/2016/9/30/fb_team_1475213828036.png",
+                "score": [
+                    0
+                ],
+                "shortName": "朝鲜U23",
+                "teamId": 7451
+            },
+            {
+                "picUrl": "https://pic.8win.com/data/image/all/2016/9/14/fb_team_1473844762294.png",
+                "score": [
+                    0
+                ],
+                "shortName": "泰国U23",
+                "teamId": 2262
+            }
+        ],
+        "playtypeId": null,
+        "playtypes": [],
+        "pondType": 0,
+        "rank": 0,
+        "special": 0,
+        "specialDesc": "",
+        "specialPicture": "",
+        "sportName": "足球",
+        "sportType": 1
+    },
+    {
+        "auditStatus": 1,
+        "elapseTime": 0,
+        "events": [],
+        "handicapStatus": 2,
+        "handicapType": -1,
+        "leagueName": "澳超",
+        "leagueRank": 0,
+        "matchId": 38034,
+        "matchName": "",
+        "matchStatus": 0,
+        "matchTime": "2018-01-10 16:50:00",
+        "matchType": 0,
+        "paused": 1,
+        "period": 0,
+        "players": [
+            {
+                "picUrl": "https://pic.8win.com/data/image/all/2016/5/30/team_14.png",
+                "score": [
+                    0
+                ],
+                "shortName": "西悉尼",
+                "teamId": 14
+            },
+            {
+                "picUrl": "https://pic.8win.com/data/image/all/2016/5/30/team_13.png",
+                "score": [
+                    0
+                ],
+                "shortName": "阿德莱德",
+                "teamId": 13
+            }
+        ],
+        "playtypeId": null,
+        "playtypes": [],
+        "pondType": 0,
+        "rank": 0,
+        "special": 0,
+        "specialDesc": "",
+        "specialPicture": "",
+        "sportName": "足球",
+        "sportType": 1
+    },
+    {
+        "auditStatus": 1,
+        "elapseTime": 0,
+        "events": [],
+        "handicapStatus": 2,
+        "handicapType": -1,
+        "leagueName": "亚青赛",
+        "leagueRank": 0,
+        "matchId": 38264,
+        "matchName": "",
+        "matchStatus": 0,
+        "matchTime": "2018-01-10 19:30:00",
+        "matchType": 0,
+        "paused": 1,
+        "period": 0,
+        "players": [
+            {
+                "picUrl": "https://pic.8win.com/data/image/all/2016/5/30/team_7446.png",
+                "score": [
+                    0
+                ],
+                "shortName": "日本U23",
+                "teamId": 7446
+            },
+            {
+                "picUrl": "https://pic.8win.com/data/image/all/2017/9/20/fb_team_1505878470847.png",
+                "score": [
+                    0
+                ],
+                "shortName": "巴勒斯坦U23",
+                "teamId": 4753
+            }
+        ],
+        "playtypeId": null,
+        "playtypes": [],
+        "pondType": 0,
+        "rank": 0,
+        "special": 0,
+        "specialDesc": "",
+        "specialPicture": "",
+        "sportName": "足球",
+        "sportType": 1
+    },
+    {
+        "auditStatus": 1,
+        "elapseTime": 0,
+        "events": [],
+        "handicapStatus": 2,
+        "handicapType": -1,
+        "leagueName": "亚青赛",
+        "leagueRank": 0,
+        "matchId": 38269,
+        "matchName": "",
+        "matchStatus": 0,
+        "matchTime": "2018-01-10 19:30:00",
+        "matchType": 0,
+        "paused": 1,
+        "period": 0,
+        "players": [
+            {
+                "picUrl": "https://pic.8win.com/data/image/all/2017/8/1/fb_team_1501573472936.png",
+                "score": [
+                    0
+                ],
+                "shortName": "约旦U23",
+                "teamId": 860
+            },
+            {
+                "picUrl": "https://pic.8win.com/data/image/all/2016/10/8/fb_team_1475893722115.png",
+                "score": [
+                    0
+                ],
+                "shortName": "沙特U23",
+                "teamId": 1425
+            }
+        ],
+        "playtypeId": null,
+        "playtypes": [],
+        "pondType": 0,
+        "rank": 0,
+        "special": 0,
+        "specialDesc": "",
+        "specialPicture": "",
+        "sportName": "足球",
+        "sportType": 1
+    },
+    {
+        "auditStatus": 1,
+        "elapseTime": 0,
+        "events": [],
+        "handicapStatus": 2,
+        "handicapType": -1,
+        "leagueName": "印度甲",
+        "leagueRank": 0,
+        "matchId": 38270,
+        "matchName": "",
+        "matchStatus": 0,
+        "matchTime": "2018-01-10 20:00:00",
+        "matchType": 0,
+        "paused": 1,
+        "period": 0,
+        "players": [
+            {
+                "picUrl": "https://pic.8win.com/data/image/all/2016/10/8/fb_team_1475896405084.png",
+                "score": [
+                    0
+                ],
+                "shortName": "莫亨巴根",
+                "teamId": 1798
+            },
+            {
+                "picUrl": "https://pic.8win.com/data/image/all/2017/12/26/fb_team_1514276877547.png",
+                "score": [
+                    0
+                ],
+                "shortName": "米勒娃学院",
+                "teamId": 689
+            }
+        ],
+        "playtypeId": null,
+        "playtypes": [],
+        "pondType": 0,
+        "rank": 0,
+        "special": 0,
+        "specialDesc": "",
+        "specialPicture": "",
+        "sportName": "足球",
+        "sportType": 1
+    },
+    {
+        "auditStatus": 1,
+        "elapseTime": 0,
+        "events": [],
+        "handicapStatus": 2,
+        "handicapType": -1,
+        "leagueName": "希腊杯",
+        "leagueRank": 0,
+        "matchId": 38035,
+        "matchName": "",
+        "matchStatus": 0,
+        "matchTime": "2018-01-10 21:00:00",
+        "matchType": 0,
+        "paused": 1,
+        "period": 0,
+        "players": [
+            {
+                "picUrl": "https://pic.8win.com/data/image/all/2017/9/27/fb_team_1506497310957.png",
+                "score": [
+                    0
+                ],
+                "shortName": "奥林匹亚",
+                "teamId": 840
+            },
+            {
+                "picUrl": "https://pic.8win.com/data/image/all/2016/9/8/fb_team_1473320491057.png",
+                "score": [
+                    0
+                ],
+                "shortName": "普拉塔尼",
+                "teamId": 12777
+            }
+        ],
+        "playtypeId": null,
+        "playtypes": [],
+        "pondType": 0,
+        "rank": 0,
+        "special": 0,
+        "specialDesc": "",
+        "specialPicture": "",
+        "sportName": "足球",
+        "sportType": 1
+    },
+    {
+        "auditStatus": 1,
+        "elapseTime": 0,
+        "events": [],
+        "handicapStatus": 0,
+        "handicapType": -1,
+        "leagueName": "英超",
+        "leagueRank": 0,
+        "matchId": 37897,
+        "matchName": "",
+        "matchStatus": 0,
+        "matchTime": "2018-01-15 00:00:00",
+        "matchType": 0,
+        "paused": 1,
+        "period": 0,
+        "players": [
+            {
+                "picUrl": "https://pic.8win.com/data/image/all/2016/5/30/team_113.png",
+                "score": [
+                    0
+                ],
+                "shortName": "利物浦",
+                "teamId": 113
+            },
+            {
+                "picUrl": "https://pic.8win.com/data/image/all/2016/5/30/team_109.png",
+                "score": [
+                    0
+                ],
+                "shortName": "曼城",
+                "teamId": 109
+            }
+        ],
+        "playtypeId": null,
+        "playtypes": [],
+        "pondType": 0,
+        "rank": 0,
+        "special": 0,
+        "specialDesc": "",
+        "specialPicture": "",
+        "sportName": "足球",
+        "sportType": 1
+    },
+    {
+        "auditStatus": 1,
+        "elapseTime": 0,
+        "events": [],
+        "handicapStatus": 0,
+        "handicapType": -1,
+        "leagueName": "法甲",
+        "leagueRank": 0,
+        "matchId": 37984,
+        "matchName": "",
+        "matchStatus": 0,
+        "matchTime": "2018-01-15 00:00:00",
+        "matchType": 0,
+        "paused": 1,
+        "period": 0,
+        "players": [
+            {
+                "picUrl": "https://pic.8win.com/data/image/all/2016/5/30/team_4308.png",
+                "score": [
+                    0
+                ],
+                "shortName": "里昂",
+                "teamId": 4308
+            },
+            {
+                "picUrl": "https://pic.8win.com/data/image/all/2016/5/30/team_761.png",
+                "score": [
+                    0
+                ],
+                "shortName": "昂热",
+                "teamId": 761
+            }
+        ],
+        "playtypeId": null,
+        "playtypes": [],
+        "pondType": 0,
+        "rank": 0,
+        "special": 0,
+        "specialDesc": "",
+        "specialPicture": "",
+        "sportName": "足球",
+        "sportType": 1
+    },
+    {
+        "auditStatus": 1,
+        "elapseTime": 0,
+        "events": [],
+        "handicapStatus": 0,
+        "handicapType": -1,
+        "leagueName": "德甲",
+        "leagueRank": 0,
+        "matchId": 37818,
+        "matchName": "",
+        "matchStatus": 0,
+        "matchTime": "2018-01-15 01:00:00",
+        "matchType": 0,
+        "paused": 1,
+        "period": 0,
+        "players": [
+            {
+                "picUrl": "https://pic.8win.com/data/image/all/2016/7/21/fb_team_1469071045573.png",
+                "score": [
+                    0
+                ],
+                "shortName": "多特蒙德",
+                "teamId": 2224
+            },
+            {
+                "picUrl": "https://pic.8win.com/data/image/all/2016/5/30/team_1681.png",
+                "score": [
+                    0
+                ],
+                "shortName": "沃夫斯堡",
+                "teamId": 1681
+            }
+        ],
+        "playtypeId": null,
+        "playtypes": [],
+        "pondType": 0,
+        "rank": 0,
+        "special": 0,
+        "specialDesc": "",
+        "specialPicture": "",
+        "sportName": "足球",
+        "sportType": 1
+    },
+    {
+        "auditStatus": 1,
+        "elapseTime": 0,
+        "events": [],
+        "handicapStatus": 0,
+        "handicapType": -1,
+        "leagueName": "西甲",
+        "leagueRank": 0,
+        "matchId": 38001,
+        "matchName": "",
+        "matchStatus": 0,
+        "matchTime": "2018-01-15 01:30:00",
+        "matchType": 0,
+        "paused": 1,
+        "period": 0,
+        "players": [
+            {
+                "picUrl": "https://pic.8win.com/data/image/all/2016/5/30/team_298.png",
+                "score": [
+                    0
+                ],
+                "shortName": "西班牙人",
+                "teamId": 298
+            },
+            {
+                "picUrl": "https://pic.8win.com/data/image/all/2016/7/29/fb_team_1469771123810.png",
+                "score": [
+                    0
+                ],
+                "shortName": "毕尔巴鄂",
+                "teamId": 302
+            }
+        ],
+        "playtypeId": null,
+        "playtypes": [],
+        "pondType": 0,
+        "rank": 0,
+        "special": 0,
+        "specialDesc": "",
+        "specialPicture": "",
+        "sportName": "足球",
+        "sportType": 1
+    },
+    {
+        "auditStatus": 1,
+        "elapseTime": 0,
+        "events": [],
+        "handicapStatus": 0,
+        "handicapType": -1,
+        "leagueName": "西甲",
+        "leagueRank": 0,
+        "matchId": 38002,
+        "matchName": "",
+        "matchStatus": 0,
+        "matchTime": "2018-01-15 03:45:00",
+        "matchType": 0,
+        "paused": 1,
+        "period": 0,
+        "players": [
+            {
+                "picUrl": "https://pic.8win.com/data/image/all/2016/5/30/team_289.png",
+                "score": [
+                    0
+                ],
+                "shortName": "皇家社会",
+                "teamId": 289
+            },
+            {
+                "picUrl": "https://pic.8win.com/data/image/all/2016/5/30/team_297.png",
+                "score": [
+                    0
+                ],
+                "shortName": "巴萨",
+                "teamId": 297
+            }
+        ],
+        "playtypeId": null,
+        "playtypes": [],
+        "pondType": 0,
+        "rank": 0,
+        "special": 0,
+        "specialDesc": "",
+        "specialPicture": "",
+        "sportName": "足球",
+        "sportType": 1
+    },
+    {
+        "auditStatus": 1,
+        "elapseTime": 0,
+        "events": [],
+        "handicapStatus": 0,
+        "handicapType": -1,
+        "leagueName": "法甲",
+        "leagueRank": 0,
+        "matchId": 37985,
+        "matchName": "",
+        "matchStatus": 0,
+        "matchTime": "2018-01-15 04:00:00",
+        "matchType": 0,
+        "paused": 1,
+        "period": 0,
+        "players": [
+            {
+                "picUrl": "https://pic.8win.com/data/image/all/2016/5/30/team_757.png",
+                "score": [
+                    0
+                ],
+                "shortName": "南特",
+                "teamId": 757
+            },
+            {
+                "picUrl": "https://pic.8win.com/data/image/all/2016/5/30/team_776.png",
+                "score": [
+                    0
+                ],
+                "shortName": "巴黎圣曼",
+                "teamId": 776
+            }
+        ],
+        "playtypeId": null,
+        "playtypes": [],
+        "pondType": 0,
+        "rank": 0,
+        "special": 0,
+        "specialDesc": "",
+        "specialPicture": "",
+        "sportName": "足球",
+        "sportType": 1
+    },
+    {
+        "auditStatus": 1,
+        "elapseTime": 0,
+        "events": [],
+        "handicapStatus": 0,
+        "handicapType": -1,
+        "leagueName": "英超",
+        "leagueRank": 0,
+        "matchId": 37898,
+        "matchName": "",
+        "matchStatus": 0,
+        "matchTime": "2018-01-16 04:00:00",
+        "matchType": 0,
+        "paused": 1,
+        "period": 0,
+        "players": [
+            {
+                "picUrl": "https://pic.8win.com/data/image/all/2016/5/30/team_104.png",
+                "score": [
+                    0
+                ],
+                "shortName": "曼联",
+                "teamId": 104
+            },
+            {
+                "picUrl": "https://pic.8win.com/data/image/all/2016/5/30/team_111.png",
+                "score": [
+                    0
+                ],
+                "shortName": "斯托克城",
+                "teamId": 111
+            }
+        ],
+        "playtypeId": null,
+        "playtypes": [],
+        "pondType": 0,
+        "rank": 0,
+        "special": 0,
+        "specialDesc": "",
+        "specialPicture": "",
+        "sportName": "足球",
+        "sportType": 1
+    },
+    {
+        "auditStatus": 1,
+        "elapseTime": 0,
+        "events": [],
+        "handicapStatus": 0,
+        "handicapType": -1,
+        "leagueName": "西甲",
+        "leagueRank": 0,
+        "matchId": 38003,
+        "matchName": "",
+        "matchStatus": 0,
+        "matchTime": "2018-01-16 04:00:00",
+        "matchType": 0,
+        "paused": 1,
+        "period": 0,
+        "players": [
+            {
+                "picUrl": "https://pic.8win.com/data/image/all/2016/5/30/team_296.png",
+                "score": [
+                    0
+                ],
+                "shortName": "贝蒂斯",
+                "teamId": 296
+            },
+            {
+                "picUrl": "https://pic.8win.com/data/image/all/2016/8/19/fb_team_1471585483543.png",
+                "score": [
+                    0
+                ],
+                "shortName": "莱加内斯",
+                "teamId": 316
+            }
+        ],
+        "playtypeId": null,
+        "playtypes": [],
+        "pondType": 0,
+        "rank": 0,
+        "special": 0,
+        "specialDesc": "",
+        "specialPicture": "",
+        "sportName": "足球",
+        "sportType": 1
+    }
+]

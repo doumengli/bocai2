@@ -1,0 +1,15 @@
+.cellNav{
+    width:100%;
+    height:auto;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.cellNav a{
+    width:25%;
+    height:40px;
+    line-height:40px;
+    border:1px solid #999;
+    box-sizing: border-box;
+}
